@@ -11,7 +11,7 @@ summitDf <- data.frame(Name = c("Mount Haystack", "Mount Skylight",
                        Climb_Ascent_ft = c(3570, 4265, 2800, 4178),
                        Round_trip_length_mi =c(17.8, 17.9, 13.2, 16))
 # Question 1
-summitDf$Elevation_meters <- summitDf$Elevation_ft * 0.3048
+summitDf$Elevation_ft * 0.3048
 
 # Question 2
 

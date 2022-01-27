@@ -17,7 +17,7 @@ summitDf$Elevation_meters <- summitDf$Elevation_ft * 0.3048
 
 # Putting my code in the console would not follow version control practices as
 # we would not be able to track the changes we made to our script if everything 
-# typed into the console
+# was typed into the console
 
 # Question 3
 summitDfLongestRow <- summitDf[2, ]

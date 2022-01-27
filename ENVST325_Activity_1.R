@@ -21,3 +21,6 @@ summitDf$Elevation_meters <- summitDf$Elevation_ft * 0.3048
 
 # Question 3
 summitDfLongestRow <- summitDf[2, ]
+
+# Question 4
+#https://github.com/Dcapella27/ENVST325--Homework-1.git
